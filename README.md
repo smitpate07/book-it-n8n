@@ -37,9 +37,9 @@
 
 ---
 
-## 🗺️ High-Level Process
+## 🗺️ High-Level
 
-
+![highlevel](images/highlevel.png)
 
 ---
 
@@ -75,6 +75,8 @@ This leads to **double bookings**, **missed calls**, **forgotten appointments**,
 ---
 
 ## 🔥 Challenges This Workflow Solves
+
+![impact](images/impact.png)
 
 ### Before This Workflow
 
