@@ -66,8 +66,6 @@ This leads to **double bookings**, **missed calls**, **forgotten appointments**,
 
 ## 🔥 Challenges This Workflow Solves
 
-![impact](images/impact.png)
-
 ### Before This Workflow
 
 | Challenge | Impact |
@@ -143,7 +141,9 @@ This leads to **double bookings**, **missed calls**, **forgotten appointments**,
 
 
 ---
-
+## Workflow Impact
+![impact](images/impact.png)
+---
 <div align="center">
 
 **Built for small businesses that deserve big-business tools.**
