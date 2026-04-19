@@ -1,15 +1,5 @@
 ## Book-it-N8N
 ### *Zero subscriptions. Zero phone tag. Zero double bookings.*
-
-<div align="center">
-
-
-![n8n](https://img.shields.io/badge/n8n-Self_Hosted-FF6D5A?style=for-the-badge&logo=n8n)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Cost](https://img.shields.io/badge/Monthly_Cost-$0-gold?style=for-the-badge)
-
-</div>
-
 ---
 
 ## 🧩 Built With
