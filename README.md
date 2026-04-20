@@ -117,19 +117,6 @@ This leads to **double bookings**, **missed calls**, **forgotten appointments**,
 
 ---
 
-## 🛠️ Tech Stack
-
-| Tool | Purpose | Cost |
-|---|---|---|
-| **n8n** (self-hosted) | Automation engine | Free |
-| **JotForm** | Customer-facing booking form | Free tier |
-| **Airtable** | Appointment database and status tracking | Free tier |
-| **Telegram Bot** | Owner approval interface | Free |
-
-**Total monthly cost: $0**
-
----
-
 ## ⚙️ Key Features
 
 - **One-tap approval** — owner approves or rejects from Telegram on their phone
@@ -138,7 +125,6 @@ This leads to **double bookings**, **missed calls**, **forgotten appointments**,
 - **Full audit trail** — every submission tracked in Airtable with response timestamps
 - **No monthly fees** — 100% self-hosted on n8n
 - **Mobile-first** — entire owner experience happens inside Telegram
-
 
 ---
 ## Workflow Impact
