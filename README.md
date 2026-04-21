@@ -53,8 +53,7 @@ This leads to **double bookings**, **missed calls**, **forgotten appointments**,
 | Business Type | Problem Solved |
 |---|---|
 | 💇 Hair Salons & Barbershops | No more DM chaos for bookings |
-| 🦷 Dental & Medical Clinics | Replace expensive scheduling add-ons |
-| 🐾 Pet Groomers | Handle high-volume requests without extra staff |
+| 🦷 Dental & Medical Clinics | Replace expensive scheduling add-ons |  
 | 🏠 Handymen & Contractors | Qualify and confirm jobs before showing up |
 | 💅 Nail Salons & Spas | Free up front desk during peak hours |
 | 🧘 Personal Trainers | Manage 1-on-1 session requests professionally |
