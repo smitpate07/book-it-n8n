@@ -25,8 +25,7 @@
 
 ## 🎬 Demo Video
 
-[![Watch Demo](https://cdn.loom.com/sessions/thumbnails/fa192d0eb34b4b9eb92c3be8de799bcb.gif)](https://www.loom.com/share/fa192d0eb34b4b9eb92c3be8de799bcb)
-
+![Watch Demo](images/video.png)
 
 ---
 
