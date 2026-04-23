@@ -27,6 +27,8 @@
 
 <div>
     <a href="https://www.loom.com/share/fa192d0eb34b4b9eb92c3be8de799bcb">
+    </a>
+    <a href="https://www.loom.com/share/fa192d0eb34b4b9eb92c3be8de799bcb">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/fa192d0eb34b4b9eb92c3be8de799bcb-73ba2ba1376180ea-full.jpg#t=0.1">
     </a>
   </div>
