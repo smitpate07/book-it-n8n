@@ -25,7 +25,8 @@
 
 ## 🎬 Demo Video
 
-![Watch Demo](images/video.png)
+🎥 Click the below image to watch the full workflow demo on Loom
+[![Demo Video](images/video.png)](https://www.loom.com/share/fa192d0eb34b4b9eb92c3be8de799bcb)
 
 ---
 
