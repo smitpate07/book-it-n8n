@@ -26,7 +26,8 @@
 ## 🎬 Demo Video
 
 [![Demo Video](images/video.png)](https://www.loom.com/share/fa192d0eb34b4b9eb92c3be8de799bcb)
-👆 Click the button above to watch the full demo — see the complete appointment booking flow from JotForm submission to Telegram approval in action.
+
+👆 *Click the button above to watch the full demo — see the complete appointment booking flow from JotForm submission to Telegram approval in action.*
 ---
 
 ## 🗺️ High-Level
