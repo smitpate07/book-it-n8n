@@ -121,7 +121,7 @@ This leads to **double bookings**, **missed calls**, **forgotten appointments**,
 
 ## ⚙️ Key Features
 
-- **One-tap approval** — owner approves or rejects from Telegram on their phone
+- **One-tap approval** — owner approves or rejects from Telegram on their phone.
 - **Duplicate prevention** — once a status is set, it cannot be changed again
 - **Automatic slot release** — rejected appointments immediately free the time slot in JotForm
 - **Full audit trail** — every submission tracked in Airtable with response timestamps
