@@ -123,8 +123,8 @@ This leads to **double bookings**, **missed calls**, **forgotten appointments**,
 
 - **One-tap approval** — owner approves or rejects from Telegram on their phone.
 - **Duplicate prevention** — once a status is set, it cannot be changed again.
-- **Automatic slot release** — rejected appointments immediately free the time slot in JotForm
-- **Full audit trail** — every submission tracked in Airtable with response timestamps
+- **Automatic slot release** — rejected appointments immediately free the time slot in JotForm.
+- **Full audit trail** — every submission tracked in Airtable with response timestamps.
 - **No monthly fees** — 100% self-hosted on n8n
 - **Mobile-first** — entire owner experience happens inside Telegram
 
