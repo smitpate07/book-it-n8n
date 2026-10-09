@@ -125,7 +125,7 @@ This leads to **double bookings**, **missed calls**, **forgotten appointments**,
 - **Duplicate prevention** — once a status is set, it cannot be changed again.
 - **Automatic slot release** — rejected appointments immediately free the time slot in JotForm.
 - **Full audit trail** — every submission tracked in Airtable with response timestamps.
-- **No monthly fees** — 100% self-hosted on n8n
+- **No monthly fees** — 100% self-hosted on n8n.
 - **Mobile-first** — entire owner experience happens inside Telegram
 
 ---
