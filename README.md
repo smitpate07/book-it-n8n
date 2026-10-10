@@ -126,7 +126,7 @@ This leads to **double bookings**, **missed calls**, **forgotten appointments**,
 - **Automatic slot release** — rejected appointments immediately free the time slot in JotForm.
 - **Full audit trail** — every submission tracked in Airtable with response timestamps.
 - **No monthly fees** — 100% self-hosted on n8n.
-- **Mobile-first** — entire owner experience happens inside Telegram
+- **Mobile-first** — entire owner experience happens inside Telegram.
 
 ---
 ## Workflow Impact
